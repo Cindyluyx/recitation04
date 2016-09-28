@@ -1,4 +1,4 @@
-# Computer Systems Organization : Recitation 05
+# Computer Systems Organization : Recitation 04
 
 ## Bitwise Operations
 
